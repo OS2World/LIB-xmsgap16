@@ -1,0 +1,5 @@
+XMSGAPI; eXtended MSGAPI - version 1.6.
+C library to access Squish & *.MSG format
+message bases for 32-bit DOS, OS/2, Windows,
+UNIX & BeOS.  Maintained by Andrew Clarke.
+E-mail: mail@ozzmosis.com. FidoNet: 3:633/267.
